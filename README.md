@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Arpita Agarwal
 
-<!--
-**Arpita-1106/Arpita-1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer passionate about problem solving and algorithms.
 
-Here are some ideas to get you started:
+## 🔹 Tech Stack
+- Java
+- Data Structures & Algorithms
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Current Focus
+- Solving DSA problems
+- Learning advanced data structures
+- Preparing for software engineering roles
+
+## 🔹 Goals
+- Crack top tech internships
+- Build impactful projects
+- Master system design
+
